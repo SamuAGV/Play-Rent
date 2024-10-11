@@ -8,7 +8,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author SamuelGarduno
+ * @author SamuelGardunoo
  * Para PHPMYADMIN LOCAL
  * "jdbc:mysql://localhost:3306/seminario","root",""
  * 
